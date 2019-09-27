@@ -1,0 +1,2 @@
+[bugfinder-config]
+processed_images_path = /home/leszek/PWR/BugFinder/sample_data/test/

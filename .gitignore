@@ -1,0 +1,16 @@
+*.pyc
+*.swp
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdf
+*.ps
+*.dvi
+doc/*
+sample_data/*
+src/data/patterns/*
+src/data/settings/*
+
+
